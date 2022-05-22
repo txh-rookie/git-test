@@ -1,0 +1,6 @@
+git  branch ....(name) //创建分支
+git branch //查看当前所有的分支
+git checkout master //切换到当前分支
+git merge 分支名称  //合并当前分支
+合并完以后就push 
+切换到自己的分支 git merge 线上分支名称
